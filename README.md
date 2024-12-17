@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 - 👋 Hi, I’m @jake-bestland
 - 👀 I’m interested in sports, gaming, fixing things, music and family life.  Also computers and technology :P 
