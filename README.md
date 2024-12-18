@@ -3,6 +3,7 @@
 - 👀 I’m interested in sports, gaming, fixing things, music and family life.  Also computers and technology :P 
 - 🌱 I’m currently (endlessly) learning _________ - you name it!
 - 💞️ I _love_ Python + Django.
+- 🔭 Open to work
 <!---
 - 📫 You can reach out to me here on 
 --->
